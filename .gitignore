@@ -46,7 +46,7 @@ Plugins/Developer/RiderLink/
 Content/Resources/*
 Content/Movies/*
 Content/DEV/*
-
+Content/MetaHumans*
 
 # Precompiled Assets
 SourceArt/**/*.png

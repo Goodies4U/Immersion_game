@@ -49,6 +49,7 @@ Content/DEV/*
 Content/MetaHumans/*
 Content/MSPresets/*
 Content/Megascans/*
+Content/Test/*
 
 # Precompiled Assets
 SourceArt/**/*.png

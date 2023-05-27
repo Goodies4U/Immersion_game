@@ -7,7 +7,11 @@
 		{
 			"Name": "Immersion_game",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"CoreUObject",
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [

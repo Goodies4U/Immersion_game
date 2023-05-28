@@ -17,6 +17,8 @@ struct FItemInfo : public FTableRowBase
 	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="ItemInfo")
 	TObjectPtr<UTexture2D> ItemIcon = nullptr;
 	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="ItemInfo")
+	TObjectPtr<UTexture2D> TooltipIcon = nullptr;
+	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="ItemInfo")
 	TSubclassOf<APickUpCore> PickUpClass = nullptr;
 	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="ItemInfo")
 	TSubclassOf<AEquipClassCore> EquipClass = nullptr;

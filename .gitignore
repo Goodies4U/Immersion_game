@@ -50,6 +50,8 @@ Content/MetaHumans/*
 Content/MSPresets/*
 Content/Megascans/*
 Content/Test/*
+Content/Deko_MatrixDemo/*
+Content/Galaxy/*
 
 # Precompiled Assets
 SourceArt/**/*.png
